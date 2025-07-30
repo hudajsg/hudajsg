@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Huda Alghamdi 👋</h1>
+<h1 align="center">Hi, I'm Huda Al Ghamdi 👋</h1>
 <p align="center">
 🎓 Computer Science Graduate | 💡 AI & Data Enthusiast | 🚀 Building smart solutions from data to deployment
 </p>
