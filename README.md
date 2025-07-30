@@ -16,13 +16,6 @@
 
 ### 🚀 Tech Stack
 
-<h2 align="left">Hi 👋! I'm Huda Alghamdi, a Computer Science graduate passionate about AI, Data, and building real-world tech solutions.</h2>
-
-###
-
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
