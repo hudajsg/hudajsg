@@ -6,9 +6,9 @@
 ---
 
 ### 👩‍💻 About Me
-- 🧠 Fresh graduate from Princess Nourah University, GPA 4.11 / 5  
-- 🔍 Passionate about AI, Data Science, and building meaningful products
-- ⚙️ Skilled in Python, SQL, Power BI, Docker, Flask, Laravel, and Machine Learning
+- 🧠 Fresh graduate from Princess Nourah University, GPA 4.11 / 5 .
+- 🔍 Passionate about AI, Data Science, and building meaningful products.
+- ⚙️ Skilled in Python, SQL, Power BI, Docker, Flask, FastAPI , and Machine Learning.
 
 
 ---
