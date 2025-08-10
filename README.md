@@ -50,9 +50,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
   </a>
   <img width="12" />
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo" />
-  </a>
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="30" alt="Laravel logo" />
+</a>
   <img width="12" />
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
