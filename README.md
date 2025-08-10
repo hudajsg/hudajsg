@@ -26,8 +26,8 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="scikit-learn logo" />
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
 </a>
   <img width="12" />
   <a href="https://www.tensorflow.org/" target="_blank">
