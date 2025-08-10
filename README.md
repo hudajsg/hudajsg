@@ -27,20 +27,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   </a>
     <img width="12" />
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
-</a>
-  <img width="12" />
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  </a>
-  <img width="12" />
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
   </a>
   <img width="12" />
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+  </a>
+    <img width="12" />
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
+</a>
+  <img width="12" />
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   </a>
   <img width="12" />
   <a href="https://fastapi.tiangolo.com/" target="_blank">
